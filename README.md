@@ -1,5 +1,5 @@
 Welcome!
 
-Projects
+This is my portfolio website.
 
-About Me
+Feel free to look around and contact me about any opportunities or inquieries.
